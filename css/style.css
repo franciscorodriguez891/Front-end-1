@@ -1,0 +1,61 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    width: 1440px;
+    height: 1024px;
+    top: -513px;
+    left: -720px;
+    background-color: grey;
+}
+
+
+#imagenPersonal {
+    width: 150px;
+    height: 150px;
+    margin-left: 665px;
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+footer {
+    background-color: #d64343;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h3 {
+    margin-left: 225px;
+    background-color: #d64343;
+    color: #121213;
+    width: 1041px;
+    height: 30px;
+    top: 352px;
+    left: 225px;
+}
+
+h1 {
+    width: 1440px;
+    height: 200px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(../img/brick-wall.svg);
+    background-repeat: repeat;
+    background-color: #d64343;
+    background-position-x: initial;
+    text-align: center;
+    color: white;
+}
+
+article{
+    margin-left: 274px;
+}
+
+a {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    color: coral;
+    text-decoration: none;
+}
